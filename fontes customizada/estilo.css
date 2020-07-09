@@ -1,0 +1,8 @@
+@font-face{
+	font-family:anciet;
+	src: url("Ancient-Medium.woff");
+}
+h1{
+	font-family:anciet;
+	font-size:6em;
+}
